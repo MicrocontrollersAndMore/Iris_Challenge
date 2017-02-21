@@ -1,0 +1,20 @@
+// DetectWeatherConditions.cpp
+
+#include "DetectWeatherConditions.h"
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+void detectWeatherConditions(cv::Mat &imgOriginal) {
+
+
+
+
+}
+
+
+
+
